@@ -1,1 +1,1 @@
-[ReadME.docx](https://github.com/user-attachments/files/23091056/ReadME.docx)
+The project “Predicting Student Academic Performance” aims to analyse and predict students’ academic outcomes using data-driven techniques. The main objective is to identify key factors that influence a student’s performance.
